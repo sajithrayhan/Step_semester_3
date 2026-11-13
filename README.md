@@ -18,6 +18,7 @@ Coursework for the STEP training programme, Semester 3, at SRM Institute of Scie
 | 8 | Inheritance and polymorphism | 10 | [Open](https://github.com/sajithrayhan/Step_semester_3/tree/feature/session_8/src/main/java/inheritance_polymorphism) |
 | 9 | Abstraction and interfaces | 10 | [Open](https://github.com/sajithrayhan/Step_semester_3/tree/feature/session_9/src/main/java/abstraction_interface) |
 | 10 | Data structures foundations | 15 | [Open](https://github.com/sajithrayhan/Step_semester_3/tree/feature/session_10/src/main/java/data_structures) |
+| 11 | Searching and sorting | 15 | [Open](https://github.com/sajithrayhan/Step_semester_3/tree/feature/session_11/src/main/java/sorting_and_searching) |
 
 Session 3 was an introduction with no problems to submit.
 
@@ -45,6 +46,21 @@ git checkout feature/session_9
 javac -d out $(find src -name "*.java")
 java -cp out abstraction_interface.class_problems.GardenPlotAreaReport
 ```
+
+---
+
+## Date: 13-11-2026
+
+**Today's Work:**
+- Session 11: Library catalog lookup (binary search), warehouse bin grid scan, transaction duplicate check, employee ID lookup, pair with target sum, best single trade profit, insert position, spiral order traversal, pair sum in a sorted array, remove duplicates in place, with quiz and concept answers; height line-up (bubble sort), prize table (selection sort), library book shelf (insertion sort), queue order check, dice throw tally (counting sort).
+- Every program was compiled and run against the sample input and output given in its problem statement, and the homework programs were also run on inputs of my own.
+- Complexity of each solution is stated in the code comments, as the problems ask.
+
+**Next Session Plan:**
+- Prepare for the Final Assessment on 14-11-2026 by revising all topics up to sorting and searching.
+
+**Issues Faced:**
+- The Week 11 homework PDFs repeat earlier problems on each page, so each problem was identified from the page that introduces it.
 
 ---
 
