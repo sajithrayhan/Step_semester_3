@@ -19,6 +19,7 @@ Coursework for the STEP training programme, Semester 3, at SRM Institute of Scie
 | 9 | Abstraction and interfaces | 10 | [Open](https://github.com/sajithrayhan/Step_semester_3/tree/feature/session_9/src/main/java/abstraction_interface) |
 | 10 | Data structures foundations | 15 | [Open](https://github.com/sajithrayhan/Step_semester_3/tree/feature/session_10/src/main/java/data_structures) |
 | 11 | Searching and sorting | 15 | [Open](https://github.com/sajithrayhan/Step_semester_3/tree/feature/session_11/src/main/java/sorting_and_searching) |
+| 12 | Linked lists and stacks | 11 | [Open](https://github.com/sajithrayhan/Step_semester_3/tree/feature/session_12/src/main/java/linked_lists_and_stacks) |
 
 Session 3 was an introduction with no problems to submit.
 
@@ -46,6 +47,21 @@ git checkout feature/session_9
 javac -d out $(find src -name "*.java")
 java -cp out abstraction_interface.class_problems.GardenPlotAreaReport
 ```
+
+---
+
+## Date: 14-11-2026
+
+**Today's Work:**
+- Session 12: Campus staff salary, class report card, library return desk (stack and circular queue), payment processing, weekly rainfall analysis, hostel electricity bill (class problems); bus route stops, late comers in the line, book copy finder, cancel a booking, plate stack on a chain (assignment problems, all on a hand-written linked list).
+- Every program was compiled and run against the sample input and output given in its problem statement.
+- Time and space complexity of each solution is stated in the code comments, as the problems ask.
+
+**Next Session Plan:**
+- Attend the Final Assessment on 14-11-2026 and review the topics that need more practice afterwards.
+
+**Issues Faced:**
+- The five Week 12 homework assignments share one title in Classroom, so each was matched to its question by the attached PDF name.
 
 ---
 
